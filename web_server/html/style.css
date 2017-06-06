@@ -268,10 +268,8 @@ input[type="number"] {
 *** (C) ZACH COLE 2016
 **/
 
-/* ==== GRID SYSTEM ==== */
-
 .container {
-  width: 100%;
+  width: 95%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -351,9 +349,9 @@ input[type="number"] {
 }
 
 .row::after {
-	content: "";
-	display: table;
-	clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .hidden-sm {
@@ -362,7 +360,7 @@ input[type="number"] {
 
 @media only screen and (min-width: 33.75em) {  /* 540px */
   .container {
-    width: 85%;
+    width: 80%;
   }
 }
 
@@ -422,7 +420,7 @@ input[type="number"] {
 
 @media only screen and (min-width: 60em) { /* 960px */
   .container {
-    width: 80%;
+    width: 75%;
     max-width: 60rem;
   }
 }
