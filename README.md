@@ -3,7 +3,9 @@ Deauthentication attack and other 'hacks' using an ESP8266.
 
 ![esp8266 deauther with a smartphone](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/screenshots/smartphone_esp_1.jpg)  
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RCHANSVSX9M8C)
+[**Support me and my projects on Patreon!**  
+<img width="450" alt="Support me on Patreon" src="https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/screenshots/patreon.png">](https://www.patreon.com/spacehuhn)  
+
 
 **Referring to this project as "jammer" is prohibited! Name the project by its correct name.**  
 **Unauthorized selling of this project in any way is not allowed (see [license](#license))!**  
@@ -274,7 +276,7 @@ deauth attack: https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack
 deauth frame: https://mrncciew.com/2014/10/11/802-11-mgmt-deauth-disassociation-frames/
 
 ESP8266: 
-* https://de.wikipedia.org/wiki/ESP8266
+* https://en.wikipedia.org/wiki/ESP8266
 * https://espressif.com/en/products/hardware/esp8266ex/overview
 
 packet injection with ESP8266: 
